@@ -1,0 +1,47 @@
+body {
+    background: black;
+    color: lightgray;
+}
+
+#content {
+    width: 620px;
+    margin: 0 auto;
+}
+
+#haslo {
+    font-size: 70px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+#szubienica {
+    width: 310px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#szubienica img {
+    width: 309px;
+}
+
+#litery {
+    width: 300px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.letter {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    font-size: 18px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    cursor: pointer;
+}
